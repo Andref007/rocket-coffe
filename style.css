@@ -1,0 +1,65 @@
+
+/* GLOBAL */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #FFEDD5;
+}
+
+
+ul {
+  list-style: none;
+}
+
+/* HEADER */
+
+header {
+  padding: 32px 0px;
+  text-align: center;
+}
+
+
+header,
+section {
+  max-width: 300px;
+  margin: 0 auto; 
+}
+
+
+
+/* SECTION */
+
+section {
+  margin-bottom: 24px;
+}
+
+header h1 span {
+  color: #995000;
+}
+
+section h2 {
+  background-color: #fed7aa;
+  padding: 8px 16px;
+  text-align: center;
+
+  margin-bottom: 24px;
+}
+
+ul li {
+  margin-bottom: 16px;
+  display: flex;
+}
+
+
+li .details {
+  max-width: 240px;
+}
+
+
+.details {
+  margin-bottom: 8px;
+}
